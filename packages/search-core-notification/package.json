@@ -1,0 +1,9 @@
+{
+  "name": "search-core-notification",
+  "version": "0.0.1",
+  "types": "lib/index.d.ts",
+  "dependencies": {
+    "search": "*"
+  },
+  "sideEffects": false
+}
